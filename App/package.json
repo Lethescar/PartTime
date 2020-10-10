@@ -1,0 +1,34 @@
+{
+  "name": "parttime",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.6.4",
+    "element-ui": "^2.13.1",
+    "save": "^2.4.0",
+    "socket.io": "^2.3.0",
+    "vant": "^2.5.7",
+    "vue": "^2.6.11",
+    "vue-baidu-map": "^0.21.22",
+    "vue-router": "^3.1.5",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-router": "~4.2.0",
+    "@vue/cli-plugin-vuex": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "vue-particles": "^1.0.9",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.42.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
